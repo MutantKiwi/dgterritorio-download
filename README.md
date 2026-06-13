@@ -1,6 +1,6 @@
 # DGT Museu Virtual — Map Harvester
 
-Ferramentas para descarregar todas as folhas de mapas históricos do *Museu Virtual* da DGT (https://www.dgterritorio.gov.pt:8443/museu/) e reconstruir cada uma como uma
+[PT] Ferramentas para descarregar todas as folhas de mapas históricos do *Museu Virtual* da DGT (https://www.dgterritorio.gov.pt:8443/museu/) e reconstruir cada uma como uma
 imagem em resolução total.
 
 O site disponibiliza cada folha como uma pirâmide de mosaicos **Zoomify** (um ficheiro `ImageProperties.xml`
@@ -8,7 +8,7 @@ mais pastas `TileGroupN/` com mosaicos JPEG). Estes scripts enumeram cada folha,
 espelham o seu ficheiro `ImageProperties. xml` e, em seguida, descarregam e unem os mosaicos numa
 única imagem por folha.
 
-Tools to download every historical map sheet from the DGT *Museu Virtual*
+[EN] Tools to download every historical map sheet from the DGT *Museu Virtual*
 (`https://www.dgterritorio.gov.pt:8443/museu/`) and reconstruct each one as a
 full-resolution image.
 
